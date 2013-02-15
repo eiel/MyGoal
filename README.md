@@ -11,14 +11,16 @@
 * [Emacs](http://www.gnu.org/software/emacs/)
   * 6ヶ月ぶりぐらいに .emacs.d/init.elを少し整理 2013/01
   * el-get を本格的に導入しはじめた 2013/01
-
+  * emacs-jpが盛り上りはじめた(あんまり関係ないやん) 2013/02
+  * GNU Global について調べたい
 * [helm](https://github.com/emacs-helm/helm)
 * [yasnippet](https://github.com/capitaomorte/yasnippet)
 
 ## Haskell
 
 * [Haskell](http://www.haskell.org/haskellwiki/Haskell)
-  * [関数プログラミングの読書メモをはじめた](http://blog.eiel.info/blog/2013/01/13/intro-functional-1-dot-1/) 2013/01
+  * [関数プログラミングの読書メモをはじめた](https://github.com/eiel/Introduction-to-Functional-Programming-using-Haskell) 2013/01
+  * [Code Kata をHaskellで 日々鍛錬](https://github.com/eiel/haskell_codekata) 2013/02
 * [Hakyll](http://jaspervdj.be/hakyll/)
 * [Yesod](http://www.yesodweb.com/)
 * [Haddock](http://www.haskell.org/haddock/)
@@ -29,6 +31,7 @@
 * [Ruby](http://www.ruby-lang.org/ja/)
   * [わりと頻繁にRubyの記事をかいている](http://blog.eiel.info/blog/categories/ruby/) 2013/01
 * [Ruby on Rails](https://github.com/rails/rails)
+  * [RailsGuideの翻訳をちょろちょろ](https://github.com/eiel/docrails) 2013/02
 
 ## Git
 
@@ -61,3 +64,4 @@
 * イラスト
 * ドリンク収集
   * 体に悪いそうなのは控える 2013/01
+l
