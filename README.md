@@ -12,6 +12,7 @@
   * 6ヶ月ぶりぐらいに .emacs.d/init.elを少し整理 2013/01
   * el-get を本格的に導入しはじめた 2013/01
   * emacs-jpが盛り上りはじめた(あんまり関係ないやん) 2013/02
+  * [配色をちょっと修正した]() 2013/03
   * GNU Global について調べたい
 * [helm](https://github.com/emacs-helm/helm)
 * [yasnippet](https://github.com/capitaomorte/yasnippet)
@@ -21,10 +22,11 @@
 * [Haskell](http://www.haskell.org/haskellwiki/Haskell)
   * [関数プログラミングの読書メモをはじめた](https://github.com/eiel/Introduction-to-Functional-Programming-using-Haskell) 2013/01
   * [Code Kata をHaskellで 日々鍛錬](https://github.com/eiel/haskell_codekata) 2013/02
+* [ekmett氏のライブラリがすごいらしい](https://github.com/ekmett)
 * [Hakyll](http://jaspervdj.be/hakyll/)
 * [Yesod](http://www.yesodweb.com/)
 * [Haddock](http://www.haskell.org/haddock/)
-
+* 圏論
 
 ## Ruby
 
@@ -37,6 +39,8 @@
 
 * [Git](http://git-scm.com/)
   * [ソースコードを読む準備をはじめた](http://blog.eiel.info/blog/2012/12/22/ready-to-read-source-git/) 2013/01
+  * [発表とかした](http://blog.eiel.info/blog/2013/02/23/okagit-20130223/) 2013/03
+  * [Github Pagesについて調べた](http://blog.eiel.info/blog/2013/02/17/github-pages/) 2013/03
 
 ## Gentoo
 * [Gentoo Linux](http://www.gentoo.org/)
@@ -61,6 +65,7 @@
 * ピアノ
 * beatmania IIDX
   * だいたい1日1時間程度やってる 2013/01
+  * SAFARI が倒せない 2013/02
 * イラスト
 * ドリンク収集
   * 体に悪いそうなのは控える 2013/01
