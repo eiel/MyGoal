@@ -13,6 +13,7 @@
 ## Ruby
 
 * [Ruby on Rails](https://github.com/rails/rails)
+  * [Okayama.rb#1](https://ishikitakai.com/events/47) で Rails環境を整えた - 2013-04
 
 ## Git
 
