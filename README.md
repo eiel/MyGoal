@@ -24,9 +24,11 @@
   * [Code Kata をHaskellで 日々鍛錬](https://github.com/eiel/haskell_codekata) 2013/02
 * [ekmett氏のライブラリがすごいらしい](https://github.com/ekmett)
 * [Hakyll](http://jaspervdj.be/hakyll/)
+  * [つかい始めた](http://railsdoc.eiel.info/) 2013/04
 * [Yesod](http://www.yesodweb.com/)
 * [Haddock](http://www.haskell.org/haddock/)
 * 圏論
+  * [圏論の基礎](http://www.amazon.co.jp/gp/product/4621063243?ie=UTF8&camp=1207&creative=8411&creativeASIN=4621063243&linkCode=shr&tag=eiel-22&psc=1)書いました 2013/04
 
 ## Ruby
 
@@ -34,7 +36,7 @@
   * [わりと頻繁にRubyの記事をかいている](http://blog.eiel.info/blog/categories/ruby/) 2013/01
 * [Ruby on Rails](https://github.com/rails/rails)
   * [RailsGuideの翻訳をちょろちょろ](https://github.com/eiel/docrails) 2013/02
-
+  * [コードリーディングついでにメモを](http://railsdoc.eiel.info/) 2013/04
 ## Git
 
 * [Git](http://git-scm.com/)
@@ -65,8 +67,10 @@
 * ピアノ
 * beatmania IIDX
   * だいたい1日1時間程度やってる 2013/01
-  * SAFARI が倒せない 2013/02
+  * THE SAFARI が倒せない 2013/02
+  * まだ THE SAFARI SP が倒せない 2013/04
 * イラスト
 * ドリンク収集
   * 体に悪いそうなのは控える 2013/01
-l
+* 囲碁
+* 将棋
