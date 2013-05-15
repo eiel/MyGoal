@@ -37,6 +37,7 @@
 * [Ruby on Rails](https://github.com/rails/rails)
   * [RailsGuideの翻訳をちょろちょろ](https://github.com/eiel/docrails) 2013/02
   * [コードリーディングついでにメモを](http://railsdoc.eiel.info/) 2013/04
+    * ほぼ毎日継続中 3013/05
 ## Git
 
 * [Git](http://git-scm.com/)
@@ -56,9 +57,13 @@
 
 * [Linux Kernel](http://www.kernel.org/)
 
-## 3D ビデオカード
+## 3D
 
 * [OpenGL](http://www.opengl.org/)
+
+## 公益活動
+
+* できることを模索中 2013/05
 
 # 勉強したいこと 趣味
 
