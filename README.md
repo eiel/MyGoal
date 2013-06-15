@@ -38,12 +38,15 @@
   * [RailsGuideの翻訳をちょろちょろ](https://github.com/eiel/docrails) 2013/02
   * [コードリーディングついでにメモを](http://railsdoc.eiel.info/) 2013/04
     * ほぼ毎日継続中 3013/05
+    * 今月も継続できた 2013/06
+
 ## Git
 
 * [Git](http://git-scm.com/)
   * [ソースコードを読む準備をはじめた](http://blog.eiel.info/blog/2012/12/22/ready-to-read-source-git/) 2013/01
   * [発表とかした](http://blog.eiel.info/blog/2013/02/23/okagit-20130223/) 2013/03
   * [Github Pagesについて調べた](http://blog.eiel.info/blog/2013/02/17/github-pages/) 2013/03
+  * [広島Git勉強会した](http://hiroshimarb.github.io/blog/2013/04/06/hiroshimarb-git-201306/) 2013/06
 
 ## Gentoo
 * [Gentoo Linux](http://www.gentoo.org/)
