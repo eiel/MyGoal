@@ -12,8 +12,9 @@
   * 6ヶ月ぶりぐらいに .emacs.d/init.elを少し整理 2013/01
   * el-get を本格的に導入しはじめた 2013/01
   * emacs-jpが盛り上りはじめた(あんまり関係ないやん) 2013/02
-  * [配色をちょっと修正した]() 2013/03
+  * [配色をちょっと修正した](http://blog.eiel.info/blog/2013/03/13/cielch/) 2013/03
   * GNU Global について調べたい
+  * [el-get についてちょっと調べた](http://blog.eiel.info/blog/2013/08/07/el-get/)
 * [helm](https://github.com/emacs-helm/helm)
 * [yasnippet](https://github.com/capitaomorte/yasnippet)
 
@@ -34,12 +35,14 @@
 
 * [Ruby](http://www.ruby-lang.org/ja/)
   * [わりと頻繁にRubyの記事をかいている](http://blog.eiel.info/blog/categories/ruby/) 2013/01
+  * [flaun という gem を公開してみた](http://blog.eiel.info/blog/2013/08/10/flaun/) 2013/08
 * [Ruby on Rails](https://github.com/rails/rails)
   * [RailsGuideの翻訳をちょろちょろ](https://github.com/eiel/docrails) 2013/02
   * [コードリーディングついでにメモを](http://railsdoc.eiel.info/) 2013/04
     * ほぼ毎日継続中 3013/05
     * 今月も継続できた 2013/06
     * 今月も継続した 2013/07
+    * 今月もがんばった 2013/08
 
 ## Git
 
@@ -78,6 +81,7 @@
   * だいたい1日1時間程度やってる 2013/01
   * THE SAFARI が倒せない 2013/02
   * まだ THE SAFARI SP が倒せない 2013/04
+  * そういえば 7段クリアできた 2013/08
 * イラスト
 * ドリンク収集
   * 体に悪いそうなのは控える 2013/01
