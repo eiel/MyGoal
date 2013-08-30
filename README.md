@@ -39,7 +39,7 @@
 * [Ruby on Rails](https://github.com/rails/rails)
   * [RailsGuideの翻訳をちょろちょろ](https://github.com/eiel/docrails) 2013/02
   * [コードリーディングついでにメモを](http://railsdoc.eiel.info/) 2013/04
-    * ほぼ毎日継続中 3013/05
+    * ほぼ毎日継続中 2013/05
     * 今月も継続できた 2013/06
     * 今月も継続した 2013/07
     * 今月もがんばった 2013/08
