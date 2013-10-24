@@ -31,3 +31,15 @@
 * [ScalaTest](http://www.scalatest.org/)
 * [Specs2](http://etorreborre.github.io/specs2/)
 * [Typesafe Activator](http://typesafe.com/activator)
+
+## Haskell
+
+* [Haskell](http://www.haskell.org/haskellwiki/Haskell)
+* [Haskell Platform](http://www.haskell.org/platform/)
+* [Haddock](http://www.haskell.org/haddock/)
+* [cabal](http://www.haskell.org/cabal/)
+* [QuickCheck](http://hackage.haskell.org/package/QuickCheck)
+* [hspec](http://hspec.github.io/)
+* [Yesod](http://www.yesodweb.com/)
+* [Hakyll](http://jaspervdj.be/hakyll/)
+* [Yi](http://www.haskell.org/haskellwiki/Yi)
