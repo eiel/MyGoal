@@ -23,6 +23,7 @@
 * [Haskell](http://www.haskell.org/haskellwiki/Haskell)
   * [関数プログラミングの読書メモをはじめた](https://github.com/eiel/Introduction-to-Functional-Programming-using-Haskell) 2013/01
   * [Code Kata をHaskellで 日々鍛錬](https://github.com/eiel/haskell_codekata) 2013/02
+  * [Haskellに関連するLTをした](http://blog.eiel.info/blog/2013/12/15/gbdaitokai-2013/)
 * [ekmett氏のライブラリがすごいらしい](https://github.com/ekmett)
 * [Hakyll](http://jaspervdj.be/hakyll/)
   * [つかい始めた](http://railsdoc.eiel.info/) 2013/04
@@ -46,6 +47,7 @@
     * 若干手抜き気味だけど続いてる 2013/09
     * 一応続いてる 2013/10
     * なんとか続いてる。そろそろやばい 2013/11
+    * 少しぐだぐだになりつつある 2013/12
   * [ActiveSupport::Autoload}](http://blog.eiel.info/blog/2013/09/07/autoload-rails/) に関するブログかいたら60はてぶされた
 
 ## Git
