@@ -48,6 +48,7 @@
     * 一応続いてる 2013/10
     * なんとか続いてる。そろそろやばい 2013/11
     * 少しぐだぐだになりつつある 2013/12
+    * なんとか続いている 2014/01
   * [ActiveSupport::Autoload}](http://blog.eiel.info/blog/2013/09/07/autoload-rails/) に関するブログかいたら60はてぶされた
 
 ## Git
@@ -61,14 +62,16 @@
 ## Gentoo
 * [Gentoo Linux](http://www.gentoo.org/)
 
-* [funtoo](http://www.funtoo.org/wiki/Welcome)
-
-* [Gentoo Prefix](http://www.gentoo.org/proj/en/gentoo-alt/prefix/)
-  * [パッチかいてバグ報告に挑戦した](http://blog.eiel.info/blog/2013/01/14/write-patch-gentoo-prefix-of-git/) 2013/01
-
 ## Linux
 
 * [Linux Kernel](http://www.kernel.org/)
+
+## インフラ?
+
+いつでもコンピュータの力を借りられるようにしておきたい。
+
+* AWS
+* sensu
 
 ## 3D
 
