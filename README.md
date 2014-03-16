@@ -22,21 +22,23 @@
 * [cabal](http://www.haskell.org/cabal/)
 * 圏論
   * [圏論の基礎](http://www.amazon.co.jp/gp/product/4621063243?ie=UTF8&camp=1207&creative=8411&creativeASIN=4621063243&linkCode=shr&tag=eiel-22&psc=1) を読む
+* 最近なんにもできてないよ
 
 ## Ruby
 
 * [Ruby](http://www.ruby-lang.org/ja/)
 * [Ruby on Rails](https://github.com/rails/rails)
-* [padrino](http://www.padrinorb.com/)
-* sensu
+* sensu - 1月に試した
 
 ## Git
 
 * [Git](http://git-scm.com/)
+* やっぱソースよむべきや
 
 ## Gentoo
 
 * [Gentoo Linux](http://www.gentoo.org/)
+* 最近なんにもできてない
 
 ## Linux
 
@@ -47,8 +49,10 @@
 いつでもコンピュータの力を借りられるようにしておきたい。
 
 * AWS
+  * S3
   * SQS
   * AutoScale
+  * SWF
 
 # 勉強したいこと 趣味
 
