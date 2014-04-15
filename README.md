@@ -12,6 +12,10 @@
 * [yasnippet](https://github.com/capitaomorte/yasnippet)
 * anzu
 
+## Atom Editor
+
+Emacs からの脱却が期待できるか検証したい。
+
 ## Haskell
 
 * [Haskell](http://www.haskell.org/haskellwiki/Haskell)
