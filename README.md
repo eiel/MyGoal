@@ -15,6 +15,7 @@
 ## Atom Editor
 
 Emacs からの脱却が期待できるか検証したい。
+オープンソースになったし、積極的にアタックかけたい。
 
 ## Haskell
 
@@ -32,7 +33,6 @@ Emacs からの脱却が期待できるか検証したい。
 
 * [Ruby](http://www.ruby-lang.org/ja/)
 * [Ruby on Rails](https://github.com/rails/rails)
-* sensu - 1月に試した
 
 ## Git
 
@@ -48,21 +48,19 @@ Emacs からの脱却が期待できるか検証したい。
 
 * [Linux Kernel](http://www.kernel.org/)
 
-## インフラ?
+## インフラ
 
 いつでもコンピュータの力を借りられるようにしておきたい。
 
 * AWS
-  * S3
   * SQS
   * AutoScale
   * SWF
+* Docker
 
-# 勉強したいこと 趣味
+# 趣味
 
 * デザイン
-* ギター
-* ピアノ
 * beatmania IIDX
-* イラスト
-* ドリンク収集
+* 簡単なイラストやロゴ
+* 色
