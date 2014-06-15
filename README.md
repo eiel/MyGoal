@@ -14,8 +14,7 @@
 
 ## Atom Editor
 
-Emacs からの脱却が期待できるか検証したい。
-オープンソースになったし、積極的にアタックかけたい。
+まー、emacsでいいかと思いつつときどき使う。
 
 ## Haskell
 
@@ -33,6 +32,7 @@ Emacs からの脱却が期待できるか検証したい。
 
 * [Ruby](http://www.ruby-lang.org/ja/)
 * [Ruby on Rails](https://github.com/rails/rails)
+* [Ruboty](http://r7kamura.hatenablog.com/entry/2014/05/31/190240)
 
 ## Git
 
@@ -52,11 +52,11 @@ Emacs からの脱却が期待できるか検証したい。
 
 いつでもコンピュータの力を借りられるようにしておきたい。
 
+* Docker
 * AWS
   * SQS
   * AutoScale
   * SWF
-* Docker
 
 # 趣味
 
@@ -64,3 +64,4 @@ Emacs からの脱却が期待できるか検証したい。
 * beatmania IIDX
 * 簡単なイラストやロゴ
 * 色
+* 料理
