@@ -12,10 +12,6 @@
 * [yasnippet](https://github.com/capitaomorte/yasnippet)
 * anzu
 
-## Atom Editor
-
-まー、emacsでいいかと思いつつときどき使う。
-
 ## Haskell
 
 * [Haskell](http://www.haskell.org/haskellwiki/Haskell)
@@ -24,6 +20,7 @@
 * [Yesod](http://www.yesodweb.com/)
 * [Haddock](http://www.haskell.org/haddock/)
 * [cabal](http://www.haskell.org/cabal/)
+* [lens](https://hackage.haskell.org/package/lens)
 * 圏論
   * [圏論の基礎](http://www.amazon.co.jp/gp/product/4621063243?ie=UTF8&camp=1207&creative=8411&creativeASIN=4621063243&linkCode=shr&tag=eiel-22&psc=1) を読む
 * 最近なんにもできてないよ
@@ -32,7 +29,6 @@
 
 * [Ruby](http://www.ruby-lang.org/ja/)
 * [Ruby on Rails](https://github.com/rails/rails)
-* [Ruboty](http://r7kamura.hatenablog.com/entry/2014/05/31/190240)
 
 ## Git
 
@@ -42,7 +38,9 @@
 ## Gentoo
 
 * [Gentoo Linux](http://www.gentoo.org/)
-* 最近なんにもできてない
+* さくらVPSにGentoo いれた
+* docker の Gentoo イメージつくって遊んでる
+* バイナリパッケージからのインストールを勉強したい
 
 ## Linux
 
@@ -53,6 +51,7 @@
 いつでもコンピュータの力を借りられるようにしておきたい。
 
 * Docker
+  * Docker Hub
 * AWS
   * SQS
   * AutoScale
