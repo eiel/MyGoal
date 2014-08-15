@@ -10,6 +10,7 @@
 * [Emacs](http://www.gnu.org/software/emacs/)
 * [helm](https://github.com/emacs-helm/helm)
 * [yasnippet](https://github.com/capitaomorte/yasnippet)
+* conpany-mode
 * anzu
 
 ## Haskell
@@ -51,7 +52,6 @@
 いつでもコンピュータの力を借りられるようにしておきたい。
 
 * Docker
-  * Docker Hub
 * AWS
   * SQS
   * AutoScale
