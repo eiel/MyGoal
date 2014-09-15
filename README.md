@@ -3,6 +3,11 @@
 勉強したいこととかかいてるだけです。
 月一でレビューするようにする。
 
+# つくりたいサービスとか
+
+* GitHub戦闘
+* Web制作のための継続的デリバリー
+
 # 勉強したいこと 技術
 
 ## Emacs
@@ -24,7 +29,6 @@
 * [lens](https://hackage.haskell.org/package/lens)
 * 圏論
   * [圏論の基礎](http://www.amazon.co.jp/gp/product/4621063243?ie=UTF8&camp=1207&creative=8411&creativeASIN=4621063243&linkCode=shr&tag=eiel-22&psc=1) を読む
-* 最近なんにもできてないよ
 
 ## Ruby
 
@@ -39,9 +43,6 @@
 ## Gentoo
 
 * [Gentoo Linux](http://www.gentoo.org/)
-* さくらVPSにGentoo いれた
-* docker の Gentoo イメージつくって遊んでる
-* バイナリパッケージからのインストールを勉強したい
 
 ## Linux
 
@@ -64,3 +65,4 @@
 * 簡単なイラストやロゴ
 * 色
 * 料理
+  * 食材宅配とかいいらしい
