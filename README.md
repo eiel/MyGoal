@@ -34,6 +34,16 @@
 
 * [Ruby](http://www.ruby-lang.org/ja/)
 * [Ruby on Rails](https://github.com/rails/rails)
+* [Sensu](http://sensuapp.org/)
+* [Homebrew](http://brew.sh/)
+
+## JavaScript
+
+* [gulp.js](http://gulpjs.com/)
+
+## Go
+
+* [peco](https://github.com/peco/peco)
 
 ## Git
 
@@ -66,3 +76,4 @@
 * 色
 * 料理
   * 食材宅配とかいいらしい
+* カメラ
