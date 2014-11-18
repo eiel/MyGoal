@@ -5,7 +5,7 @@
 
 # つくりたいサービスとか
 
-* GitHub戦闘
+* GitHub戦闘力
 * Web制作のための継続的デリバリー
 
 # 勉強したいこと 技術
@@ -40,10 +40,17 @@
 ## JavaScript
 
 * [gulp.js](http://gulpjs.com/)
+* [Ampersand.js](http://ampersandjs.com)
+* [Object.observe](http://www.html5rocks.com/ja/tutorials/es7/observe/)
+* [HTML5 Rocksをがっつり読む](http://www.html5rocks.com/ja/tutorials/es7/observe/)
 
 ## Go
 
 * [peco](https://github.com/peco/peco)
+
+## Rust
+
+システムプログラミングするならこの子な気がする。
 
 ## Git
 
@@ -67,6 +74,7 @@
   * SQS
   * AutoScale
   * SWF
+* GCE
 
 # 趣味
 
