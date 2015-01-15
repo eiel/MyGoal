@@ -8,6 +8,7 @@
 * GitHub戦闘力
 * Web制作のための継続的デリバリー
 * 我馬の過去の限定メニュー
+* GitHubのマイルストーンを俯瞰するサービス
 
 # 勉強したいこと 技術
 
@@ -16,7 +17,6 @@
 * [Emacs](http://www.gnu.org/software/emacs/)
 * [helm](https://github.com/emacs-helm/helm)
 * [yasnippet](https://github.com/capitaomorte/yasnippet)
-* conpany-mode
 * anzu
 
 ## Haskell
@@ -41,6 +41,7 @@
 * [Ruby on Rails](https://github.com/rails/rails)
 * [Sensu](http://sensuapp.org/)
 * [Homebrew](http://brew.sh/)
+* [Gviz](http://melborne.github.io/2014/02/27/gviz-posts/)
 
 ## JavaScript
 
@@ -48,6 +49,7 @@
 * [Ampersand.js](http://ampersandjs.com)
 * [Object.observe](http://www.html5rocks.com/ja/tutorials/es7/observe/)
 * [HTML5 Rocksをがっつり読む](http://www.html5rocks.com/ja/tutorials/es7/observe/)
+* [react](http://facebook.github.io/react/)
 
 ## Go
 
@@ -69,6 +71,13 @@
 ## Linux
 
 * [Linux Kernel](http://www.kernel.org/)
+
+
+## 可視化
+
+* [Graphviz](http://www.graphviz.org/Documentation.php)
+* [seqdiag](http://blockdiag.com/ja/seqdiag/index.html)
+* [kibana](http://www.elasticsearch.org/overview/kibana/)
 
 ## インフラ
 
