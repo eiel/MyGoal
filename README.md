@@ -42,14 +42,15 @@
 * [Sensu](http://sensuapp.org/)
 * [Homebrew](http://brew.sh/)
 * [Gviz](http://melborne.github.io/2014/02/27/gviz-posts/)
+* [embulk](https://github.com/embulk/embulk)
+* [fluentd](http://www.fluentd.org/)
 
 ## JavaScript
 
 * [gulp.js](http://gulpjs.com/)
-* [Ampersand.js](http://ampersandjs.com)
-* [Object.observe](http://www.html5rocks.com/ja/tutorials/es7/observe/)
-* [HTML5 Rocksをがっつり読む](http://www.html5rocks.com/ja/tutorials/es7/observe/)
 * [react](http://facebook.github.io/react/)
+* [Babel](https://github.com/babel/babel)
+* [nodejs](http://nodejs.org/)
 
 ## Go
 
