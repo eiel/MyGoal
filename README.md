@@ -29,7 +29,14 @@
 * [cabal](http://www.haskell.org/cabal/)
 * [lens](https://hackage.haskell.org/package/lens)
 * 圏論
-  * [圏論の基礎](http://www.amazon.co.jp/gp/product/4621063243?ie=UTF8&camp=1207&creative=8411&creativeASIN=4621063243&linkCode=shr&tag=eiel-22&psc=1) を読む
+* [圏論の基礎](http://www.amazon.co.jp/gp/product/4621063243?ie=UTF8&camp=1207&creative=8411&creativeASIN=4621063243&linkCode=shr&tag=eiel-22&psc=1) を読む
+
+## Scala
+
+* [Scala](http://www.scala-lang.org/)
+* [spray](http://spray.io/)
+* [akka](http://akka.io/)
+* [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 
 ## elm
 
@@ -90,6 +97,8 @@
   * AutoScale
   * SWF
 * GCE
+* [terraform](https://www.terraform.io/)
+* [consul](https://www.consul.io/)
 
 # 趣味
 
