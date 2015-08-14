@@ -5,8 +5,8 @@
 
 # つくりたいサービスとか
 
-* GitHub戦闘力
 * Web制作のための継続的デリバリー
+* GitHub戦闘力
 * 我馬の過去の限定メニュー
 * GitHubのマイルストーンを俯瞰するサービス
 
@@ -18,22 +18,27 @@
 * [helm](https://github.com/emacs-helm/helm)
 * [yasnippet](https://github.com/capitaomorte/yasnippet)
 * anzu
+* ace-ump
 
 ## Haskell
 
 * [Haskell](http://www.haskell.org/haskellwiki/Haskell)
+* QuickCheck
+* [lens](https://hackage.haskell.org/package/lens)
 * [ekmett氏のライブラリがすごいらしい](https://github.com/ekmett)
 * [Hakyll](http://jaspervdj.be/hakyll/)
 * [Yesod](http://www.yesodweb.com/)
 * [Haddock](http://www.haskell.org/haddock/)
 * [cabal](http://www.haskell.org/cabal/)
-* [lens](https://hackage.haskell.org/package/lens)
 * 圏論
 * [圏論の基礎](http://www.amazon.co.jp/gp/product/4621063243?ie=UTF8&camp=1207&creative=8411&creativeASIN=4621063243&linkCode=shr&tag=eiel-22&psc=1) を読む
 
 ## Scala
 
 * [Scala](http://www.scala-lang.org/)
+* shapless
+* scalaz
+* cats
 * [spray](http://spray.io/)
 * [akka](http://akka.io/)
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/)
@@ -61,6 +66,7 @@
 
 ## Go
 
+* GAE/Go
 * [peco](https://github.com/peco/peco)
 
 ## Rust
@@ -92,6 +98,7 @@
 いつでもコンピュータの力を借りられるようにしておきたい。
 
 * Docker
+  * Docker Swarm
 * AWS
   * SQS
   * AutoScale
