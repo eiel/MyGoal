@@ -42,6 +42,7 @@
 * [spray](http://spray.io/)
 * [akka](http://akka.io/)
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/)
+* dependent method type
 
 ## elm
 
@@ -63,6 +64,7 @@
 * [react](http://facebook.github.io/react/)
 * [Babel](https://github.com/babel/babel)
 * [nodejs](http://nodejs.org/)
+* flux
 
 ## Go
 
@@ -103,7 +105,8 @@
   * SQS
   * AutoScale
   * SWF
-* GCE
+* GCP
+  * GCEとGAEの連携
 * [terraform](https://www.terraform.io/)
 * [consul](https://www.consul.io/)
 
