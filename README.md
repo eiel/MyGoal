@@ -26,7 +26,6 @@
 * QuickCheck
 * [lens](https://hackage.haskell.org/package/lens)
 * [ekmett氏のライブラリがすごいらしい](https://github.com/ekmett)
-* [Hakyll](http://jaspervdj.be/hakyll/)
 * [Yesod](http://www.yesodweb.com/)
 * [Haddock](http://www.haskell.org/haddock/)
 * [cabal](http://www.haskell.org/cabal/)
@@ -39,10 +38,13 @@
 * shapless
 * scalaz
 * cats
-* [spray](http://spray.io/)
 * [akka](http://akka.io/)
+* akka-stream
+* Scala.js
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 * dependent method type
+
+## Rust
 
 ## elm
 
@@ -52,11 +54,8 @@
 
 * [Ruby](http://www.ruby-lang.org/ja/)
 * [Ruby on Rails](https://github.com/rails/rails)
-* [Sensu](http://sensuapp.org/)
 * [Homebrew](http://brew.sh/)
 * [Gviz](http://melborne.github.io/2014/02/27/gviz-posts/)
-* [embulk](https://github.com/embulk/embulk)
-* [fluentd](http://www.fluentd.org/)
 
 ## JavaScript
 
@@ -92,6 +91,8 @@
 ## 可視化
 
 * [Graphviz](http://www.graphviz.org/Documentation.php)
+* [PlantUML](http://ja.plantuml.com)
+* PDF
 * [seqdiag](http://blockdiag.com/ja/seqdiag/index.html)
 * [kibana](http://www.elasticsearch.org/overview/kibana/)
 
@@ -107,8 +108,12 @@
   * SWF
 * GCP
   * GCEとGAEの連携
+  * GKE
+  * Datastore
 * [terraform](https://www.terraform.io/)
 * [consul](https://www.consul.io/)
+* [embulk](https://github.com/embulk/embulk)
+* [fluentd](http://www.fluentd.org/)
 
 # 趣味
 
