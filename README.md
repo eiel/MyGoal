@@ -25,13 +25,25 @@
 
 ## Emacs
 
+普段使うものだから
+
 * [Emacs](http://www.gnu.org/software/emacs/)
 * [helm](https://github.com/emacs-helm/helm)
 * [yasnippet](https://github.com/capitaomorte/yasnippet)
 * anzu
 * ace-ump
 
+
+## Git
+
+普段使うものだから
+
+* [Git](http://git-scm.com/)
+
+
 ## Haskell
+
+純粋でシンプルだからこそみつけられるものがあるから
 
 * [Haskell](http://www.haskell.org/haskellwiki/Haskell)
 * QuickCheck
@@ -45,17 +57,21 @@
 
 ## Scala
 
+最も現実的な環境と考えているから
+
 * [Scala](http://www.scala-lang.org/)
 * shapless
 * scalaz
 * cats
 * [akka](http://akka.io/)
-* akka-stream
+* akka-streams
 * Scala.js
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 * dependent method type
 
 ## Rust
+
+次世代のC/C++言語
 
 ## elm
 
@@ -80,15 +96,6 @@
 
 * GAE/Go
 * [peco](https://github.com/peco/peco)
-
-## Rust
-
-システムプログラミングするならこの子な気がする。
-
-## Git
-
-* [Git](http://git-scm.com/)
-* やっぱソースよむべきや
 
 ## Gentoo
 
