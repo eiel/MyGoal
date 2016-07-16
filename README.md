@@ -19,9 +19,9 @@
 * Web制作のための継続的デリバリー
 * GitHub戦闘力
 * 我馬の過去の限定メニューを整理
-* すごいcron
+* すごいcron -> [digdag](https://github.com/treasure-data/digdag)がそれっぽい。
 
-# 勉強したいこと 技術
+# 勉強したいこと 技
 
 ## Emacs
 
@@ -32,6 +32,7 @@
 * [yasnippet](https://github.com/capitaomorte/yasnippet)
 * anzu
 * ace-ump
+* spacemacs
 
 
 ## Git
@@ -68,14 +69,11 @@
 * Scala.js
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 * dependent method type
+* swagger
 
 ## Rust
 
 次世代のC/C++言語
-
-## elm
-
-* [elm](http://elm-lang.org/)
 
 ## Ruby
 
@@ -90,7 +88,8 @@
 * [react](http://facebook.github.io/react/)
 * [Babel](https://github.com/babel/babel)
 * [nodejs](http://nodejs.org/)
-* flux
+* Redux
+* Angular2
 
 ## Go
 
@@ -120,14 +119,14 @@
 
 * Docker
   * Docker Swarm
-* AWS
-  * SQS
-  * AutoScale
-  * SWF
 * GCP
-  * GCEとGAEの連携
   * GKE
-  * Datastore
+  * Cloud Dataflow
+  * Cloud BigTable
+* Hbase
+* Cassandra
+* Embulk
+* Fluentd
 * [terraform](https://www.terraform.io/)
 * [consul](https://www.consul.io/)
 * [embulk](https://github.com/embulk/embulk)
