@@ -17,9 +17,9 @@
 # つくりたいサービスとか
 
 * Web制作のための継続的デリバリー
+* 飲水記録アプリ
 * GitHub戦闘力
-* 我馬の過去の限定メニューを整理
-* すごいcron -> [digdag](https://github.com/treasure-data/digdag)がそれっぽい。
+* すごいcron
 
 # 勉強したいこと 技
 
@@ -75,6 +75,9 @@
 
 次世代のC/C++言語
 
+* Redox
+* Xi
+
 ## Ruby
 
 * [Ruby](http://www.ruby-lang.org/ja/)
@@ -84,14 +87,15 @@
 
 ## JavaScript
 
-* [gulp.js](http://gulpjs.com/)
+* Flowtype
 * [react](http://facebook.github.io/react/)
 * [Babel](https://github.com/babel/babel)
 * [nodejs](http://nodejs.org/)
 * Redux
-* Angular2
 
 ## Go
+
+ちょっとしたツールをつくるのに
 
 * GAE/Go
 * [peco](https://github.com/peco/peco)
@@ -104,6 +108,7 @@
 
 * [Linux Kernel](http://www.kernel.org/)
 
+## 機械学習
 
 ## 可視化
 
@@ -118,15 +123,13 @@
 いつでもコンピュータの力を借りられるようにしておきたい。
 
 * Docker
-  * Docker Swarm
 * GCP
   * GKE
-  * Cloud Dataflow
-  * Cloud BigTable
+  * Cloud Functions
+  * Firebase
+* digdag
 * Hbase
 * Cassandra
-* Embulk
-* Fluentd
 * [terraform](https://www.terraform.io/)
 * [consul](https://www.consul.io/)
 * [embulk](https://github.com/embulk/embulk)
